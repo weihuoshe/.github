@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/brand-banner.png" alt="围火社 · Hearthring Studio" width="100%" />
+  <img src="assets/brand-banner.png" alt="围火社 · Hearthring Studio" width="100%" />
 </p>
 
 # 围火社 · Hearthring Studio
